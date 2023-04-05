@@ -1,0 +1,5 @@
+print(f"Percentual de representação de SP: {percentual_sp:.2f}%")
+print(f"Percentual de representação de RJ: {percentual_rj:.2f}%")
+print(f"Percentual de representação de MG: {percentual_mg:.2f}%")
+print(f"Percentual de representação de ES: {percentual_es:.2f}%")
+print(f"Percentual de representação de Outros: {percentual_outros:.2f}%")
